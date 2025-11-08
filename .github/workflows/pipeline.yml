@@ -1,6 +1,6 @@
 name: Hallo Wereld ci/cd Texel TechLab pipeline
 
-on: push:
+on: push
 
 jobs:
   hallo-wereld:
@@ -8,4 +8,3 @@ jobs:
     steps:
       - name: Zeg Hallo
     run: echo "Hallo, [Jouw Naam]!"
-    
