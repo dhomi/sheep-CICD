@@ -1,0 +1,11 @@
+name: Hallo Wereld ci/cd Texel TechLab pipeline
+
+on: push:
+
+jobs:
+  hallo-wereld:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Zeg Hallo
+    run: echo "Hallo, [Jouw Naam]!"
+    
