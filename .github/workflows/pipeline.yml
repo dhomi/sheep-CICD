@@ -8,3 +8,8 @@ jobs:
     steps:
       - name: Zeg Hallo
         run: echo "Hallo, Dineke!"
+  hallo-wereld2:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Zeg Hallo2
+        run: echo "Hallo, Ruben!"
