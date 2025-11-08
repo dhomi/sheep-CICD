@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Zeg Hallo
-    run: echo "Hallo, [Jouw Naam]!"
+        run: echo "Hallo, [Jouw Naam]!"
