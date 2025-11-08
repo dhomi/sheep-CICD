@@ -3,4 +3,4 @@ Author: Beni Dhomi
 Description: A simple CI/CD pipeline for Texel TechLab
 
 ## NAAM
-Name: Hoe Dan
+Name: Waarom Niet
